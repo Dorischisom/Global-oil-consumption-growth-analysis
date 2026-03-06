@@ -1,6 +1,6 @@
 # Which Countries Have the Fastest Growth in Oil Consumption (2015–2024)?
 
-## 📌 Business Problem
+## Business Problem
 
 Global oil demand continues to evolve due to industrialization, urbanization, population growth, and economic expansion. While some countries dominate oil consumption in absolute terms, others may be experiencing faster growth rates.
 
@@ -10,10 +10,10 @@ Global oil demand continues to evolve due to industrialization, urbanization, po
 
 **I examined both:**
 
-- 📈 Growth speed (CAGR – Compound Annual Growth Rate)
-- 📊 Growth size (Absolute increase in TWh)
+-  Growth speed (CAGR – Compound Annual Growth Rate)
+-  Growth size (Absolute increase in TWh)
 
-## 📂 Data Source
+## Data Source
 
 **Oil consumption data (TWh) was obtained from:**
 
@@ -32,7 +32,7 @@ Global oil demand continues to evolve due to industrialization, urbanization, po
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## 🧹 Data Cleaning & Preparation (Python)
+## Data Cleaning & Preparation (Python)
 
 #### The following steps were performed:
 
@@ -133,7 +133,7 @@ A time-series visualization shows year-by-year changes for the top-growing count
 
 - A few countries show negative CAGR, meaning their oil consumption declined between 2015 and 2023, likely due to efficiency gains, fuel switching, or economic slowdown.
 
-This chart highlights that fast growth does not always mean large volume impact - some fast growers still contribute relatively small absolute demand.
+This chart highlights that fast growth does not always mean large volume impact some fast growers still contribute relatively small absolute demand.
 
 
 ### Overall Findings
@@ -166,7 +166,7 @@ Between 2015 and 2024, oil consumption growth patterns reveal a dual dynamic:
 
 - Large economies continue to drive the majority of absolute demand growth.
 
-Understanding both dimensions — growth speed and growth size — is critical for:
+Understanding both dimensions growth speed and growth size is critical for:
 
 - Energy market forecasting
 - Investment strategy
